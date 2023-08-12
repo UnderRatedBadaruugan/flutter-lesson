@@ -22,7 +22,7 @@ class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Color(0xff36393f),
+      backgroundColor: Color(0xff2E3239),
       body: SafeArea(
         child: _totalPage[_currentIndex],
       ),

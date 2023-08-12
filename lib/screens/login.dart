@@ -39,7 +39,7 @@ class _LoginPageState extends State<LoginPage> {
                   ),
                 ),
                 Text(
-                  "Wellcome back.",
+                  "Welcome back.",
                   style: TextStyle(
                     color: Colors.white,
                     fontSize: 28
